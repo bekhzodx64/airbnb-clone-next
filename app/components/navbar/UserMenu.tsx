@@ -28,7 +28,7 @@ const UserMenu = () => {
 						</div>
 					</Menu.Button>
 
-					<Menu.Items className='absolute overflow-hidden right-0 top-full origin-top-right rounded-xl shadow-md w-[40vw] md:w-3/4 bg-white text-sm'>
+					<Menu.Items className='absolute overflow-hidden mt-2 right-0 top-full origin-top-right rounded-xl shadow-md w-[40vw] md:w-3/4 bg-white text-sm'>
 						<Menu.Item>
 							<MenuItem
 								onClick={() => {}}
